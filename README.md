@@ -5,8 +5,7 @@ elapsed is a command-line utility written in the C programming language. This to
 
 elapsed provides a simple means of outputting intervening and final elapsed times from your scripts. It supports long-running scripts that can run for days.
 
-Output examples:<pre>
-    12.912 seconds
+Output examples:<pre>    12.912 seconds
     1 minute 48.043 seconds
     1 day 0 hours 17 minutes 54.941 seconds</pre>
 
