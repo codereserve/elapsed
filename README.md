@@ -1,7 +1,15 @@
 # elapsed
 Elapsed timer Unix/Linux-command
 
-elapsed is a command-line utility for displaying or logging the elapsed run-time called from within scripts running on Unix, Linux, or MacOS. Will also run on Windows within a Linux sub-system or with minimal modification. Provides a simple means of outputing intervening and final elapsed times from scripts while supporting long running scripts that can run for days.
+elapsed is a command-line utility written in the C programming language. This tool was created for displaying or logging the elapsed run-time from within scripts. Runs on Unix, Linux, or MacOS (terminal). This will also run on Windows within a Linux sub-system or with minimal modification.
+
+elapsed provides a simple means of outputting intervening and final elapsed times from your scripts. It supports long-running scripts that can run for days.
+
+Output examples:
+    12.912 seconds
+    1 minute 48.043 seconds
+    1 day 0 hours 17 minutes 54.941 seconds
+
 
 elapsed requires nothing special to be built or run, uses only standard C libraries.
 
