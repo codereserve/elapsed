@@ -225,7 +225,7 @@ void stopTimer(char *name)
  */
 void showHelp()
 {
-  printf("\nelapsed v%s (c) %s CodeReserve.com. All rights reserved.\n\
+  printf("\nelapsed v%s (c) %s The Code Reserve. All rights reserved.\n\
   Usage: elapsed ACTION [NAME]\n\
   ACTIONS:\n\
     start [timer]   Set start time (with optional named timer).\n\
@@ -241,13 +241,13 @@ void showHelp()
                     output, this will cause the timer to restart for the\n\
                     next show action.\n\
   OUTPUT FORMAT:\n\
-    [0 day[s] ][0 hour[s] ][0 minute[s] ]0.000 seconds\n\
+    [0 days ][0 hours ][0 minutes ]0.000 seconds\n\
     Examples:       1 minute 48.043 seconds\n\
                     1 day 0 hours 17 minutes 54.941 seconds\n\
   SEE ALSO:\n\
     Documentation & code: https://github.com/codereserve/elapsed\n\
   AUTHOR:\n\
-    Creator: Jesse R Luckett, The Code Reserve.\n\
+    Creator: Jesse R Luckett, The Code Reserve, codereserve.com.\n\
 ", RELEASE, COPYRIGHT);
   exit(1);
 }
