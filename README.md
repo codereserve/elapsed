@@ -17,7 +17,7 @@ May be built using simple call to gcc, as in:
 
 Help page:
 <pre><code>
-elapsed v1.0 (c) 2021 CodeReserve.com. All rights reserved.
+elapsed v1.0.1 (c) 2021 The Code Reserve. All rights reserved.
   Usage: elapsed ACTION [NAME]
   ACTIONS:
     start [timer]   Set start time (with optional named timer).
@@ -33,12 +33,12 @@ elapsed v1.0 (c) 2021 CodeReserve.com. All rights reserved.
                     output, this will cause the timer to restart for the
                     next show action.
   OUTPUT FORMAT:
-    [0 day[s] ][0 hour[s] ][0 minute[s] ]0.000 seconds
+    [0 days ][0 hours ][0 minutes ]0.000 seconds
     Examples:       1 minute 48.043 seconds
                     1 day 0 hours 17 minutes 54.941 seconds
   SEE ALSO:
     Documentation & code: https://github.com/codereserve/elapsed
   AUTHOR:
-    Creator: Jesse R Luckett, The Code Reserve.
+    Creator: Jesse R Luckett, The Code Reserve, codereserve.com.
 </code></pre>
  
