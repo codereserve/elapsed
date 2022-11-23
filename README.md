@@ -1,5 +1,5 @@
 # elapsed
-Elapsed timer Unix/Linux-command
+Elapsed timer Unix/Linux command
 
 elapsed is a command-line utility written in the C programming language. This tool was created for displaying or logging the elapsed run-time from within scripts. Runs on Unix, Linux, or MacOS (terminal). This will also run on Windows within a Linux sub-system or with minimal modification.
 
